@@ -6,3 +6,6 @@ A news app that offers a seamless and user-friendly experience for accessing the
 ## API Reference
 
 https://newsapi.org/
+### News App Final UI
+![App UI](ui-1.jpg)
+![App UI2](ui-2.jpg)
