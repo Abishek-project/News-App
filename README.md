@@ -7,5 +7,7 @@ A news app that offers a seamless and user-friendly experience for accessing the
 
 https://newsapi.org/
 ### News App Final UI
-![App UI](ui-1.jpg)
-![App UI2](ui-2.jpg)
+<img src="ui-1.jpg" alt="Image Alt Text" width="400" height="650">
+
+
+<img src="ui-2.jpg" alt="Image Alt Text" width="400" height="650">
